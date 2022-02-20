@@ -1,13 +1,25 @@
 ---
 layout: default
+title: Info
+nav: true
+order: 1
 ---
 
-## Duis autem 
+# Graphentechnologien in den digitalen Geisteswissenschaften
+## Modellierung – Import – Analyse
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+### Andreas Kuczera
 
-## Lorem ipsum
+Dieses Buch entsteht auf Github Pages als offenes Buchprojekt.[^2753] Neben einer Einführung in Graphentechnologien mit einem geisteswissenschaften Fokus werden beispielhaft Projekte aus dem Bereich der geisteswissenschaftlichen Grundlagenforschung in die Graphdatenbank neo4j importiert und anschließend verschiedene Modellierungsperspektiven geisteswissenschaftlicher Forschungsdaten im Graphen und die damit verbundenen Auswertungsmöglichkeiten diskutiert.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+Anstoß für das Buch waren zahlreiche Gespräche mit Kollinnen und Kollegen, die immer wieder anregten, meine vielfältigen Erfahrungen zu Modellierung, Import und Exploration von Graphdaten zu verschriftlichen. Allein die schnelle technische Entwicklung macht ein traditionelles Buchprojekt schwierig, so dass ich mich schließlich entschlossen habe, das Buch auf Github zu schreiben. Damit ist das  Buch schon jetzt in einer vorläufigen Fassung frei verfügbar unter  [https://kuczera.github.io/Graphentechnologien/](https://kuczera.github.io/Graphentechnologien/). Es handelt sich momentan um eine Arbeitsfassung, die in Kürze die Version 1.0 erreichen soll. Der Vorteil des offenen Buchkonzeptes ist es, flexibel auf neue technische Entwicklungen reagieren zu können und damit Querys und Code auf einem aktuellen und funktionsfähigen Stand zu halten. Andererseits sind alle Vorgängerversionen in git transparent abgespeichert und können bei Versionierungsfragen wieder aufgerufen werden.
+Für Rückmeldungen, Verbesserungsvorschläge und Hinweise bin ich dankbar. Für weitere Informationen sei auf die [Einleitung](01_Einleitung.md) verwiesen.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+Einzelne Abschnitte des Buches sind auch Gegenstand einer Lehreinheit zu Graphentechnologien in den digitalen Geisteswissenschaften im Rahmen des [mainzed](https://www.mainzed.org)-Studiengangs zur Digitalität in den Geistes- und Kulturwissenschaften.
+Die Slides der Lehreinheit stehen unter CC-BY-Lizenz und sind erreichbar unter:
+
+[https://digitale-methodik.adwmainz.net/mod5/5c/slides/graphentechnologien/#/step-1](https://digitale-methodik.adwmainz.net/mod5/5c/slides/graphentechnologien/#/step-1)
+
+Weitere Informationen zu Graphentechnologien in den Digitalen Geistes- und Sozialwissenschaften finden Sie auf den Seiten der AG-Graphentechnologien des Dhd-Verbandes: [https://graphentechnologien.hypotheses.org/](https://graphentechnologien.hypotheses.org/).
+
+[^2753]: Mit offenem Buchprojekt ist gemeint, dass auf Github der Arbeitsprozess mit allen Änderungen transparent nachvollziehbar ist.
